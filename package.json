@@ -1,0 +1,18 @@
+{
+  "name": "10_session_2_4_2018",
+  "version": "1.0.0",
+  "description": "",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"blah\"",
+    "start": "node liri.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^5.0.1",
+    "node-spotify-api": "^1.0.7",
+    "say": "^0.14.0"
+  }
+}
